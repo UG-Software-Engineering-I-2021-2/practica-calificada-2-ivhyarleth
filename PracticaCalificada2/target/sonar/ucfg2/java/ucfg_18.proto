@@ -1,0 +1,90 @@
+
+#Principal#teacherWithExtrasPoint()Zq
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.java7 7(*"10*÷
+2q
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.java: :(L«
+¨
+q
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.java: :(L%
+yearlyTeachersjava.util.Map$Entry"__id*
+""È
+Å
+q
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.java: :(L%
+yearlyTeachersjava.util.Map$Entry"
+__arrayGet*
+
+%1java.util.Set*
+""*
+9
+1*Ò
+3q
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.java= =(3•
+’
+q
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.java= =(3
+teacherPair"__id*
+""¹
+¶
+q
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.java= =(3
+teacherPair"
+__arrayGet*
+
+teachersjava.util.List*
+""*
+2
+6*Ë
+6q
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.java> >( ÍÊ
+q
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.java> >()
+%4java.lang.Boolean"Pair#second()Ljava/lang/Object;*
+
+teacherPair2second()*
+3*¤
+8q
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.java<8 <(Fóð
+q
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.java<8 <(Q
+%3java.util.List"0java.util.Map$Entry#getValue()Ljava/lang/Object;*'
+%
+yearlyTeachersjava.util.Map$Entry2
+getValue()°
+­
+q
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.java< <(R
+teachersjava.util.List"__id*
+
+%3java.util.List*
+3*ó
+9q
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.java; ;(òï
+q
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.java;# ;(:
+%2java.lang.Integer".java.util.Map$Entry#getKey()Ljava/lang/Object;*'
+%
+yearlyTeachersjava.util.Map$Entry2getKey()*
+2
+8*
+10q
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.java:O :(_¶
+³
+q
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.java:O :(_
+%0java.util.Map"__id*#*!
+	Principal"
+allYearsTeachers×Ô
+q
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.java:O :(j
+%1java.util.Set"'java.util.Map#entrySet()Ljava/util/Set;*
+
+%0java.util.Map2
+entrySet()*
+2*ó
+1q
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.javaE E()"{
+q
+g/home/ivhy/Escritorio/practica-calificada-2-ivhyarleth/PracticaCalificada2/src/main/java/Principal.javaE E(*
+""B
+	Principal

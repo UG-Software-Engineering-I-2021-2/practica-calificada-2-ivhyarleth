@@ -1,0 +1,11 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+PracticaCalificada2,default,Pregrado,7,0,0,0,3,0,2,0,2,0
+PracticaCalificada2,default,Doctorado,9,0,0,0,3,0,2,0,2,0
+PracticaCalificada2,default,Maestria,9,0,0,0,3,0,2,0,2,0
+PracticaCalificada2,default,ProfesorTC,10,0,0,0,3,0,2,0,2,0
+PracticaCalificada2,default,Administrativo,10,0,0,0,3,0,2,0,2,0
+PracticaCalificada2,default,Teacher,0,15,0,0,0,6,0,1,0,1
+PracticaCalificada2,default,ProfesorTP,3,4,0,0,1,2,1,1,1,1
+PracticaCalificada2,default,Student,9,0,0,0,4,0,1,0,1,0
+PracticaCalificada2,default,Principal,4,222,0,22,2,47,1,18,1,7
+PracticaCalificada2,default,Pair,0,15,0,0,0,6,0,3,0,3

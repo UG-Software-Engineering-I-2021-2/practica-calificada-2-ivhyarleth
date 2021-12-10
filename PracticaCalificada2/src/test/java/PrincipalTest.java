@@ -171,4 +171,14 @@ public class PrincipalTest {
 
         Assert.assertEquals(10, studentGradeCalculator.calculateGrades(examsGrades, hasReachedMinimumClasses));
     }
+
+   // @Test
+   // void printTeacherExtraPoint() {
+//        Principal studentGradeCalculator = new Principal(2020);
+//
+//        final List<Pair<Integer, Float>> examsGrades              = List.of(new Pair<>(100, 9.8f));
+//        final boolean                    hasReachedMinimumClasses = true;
+//
+//        Assert.assertEquals(10, studentGradeCalculator.calculateGrades(examsGrades, hasReachedMinimumClasses));
+    }
 }
