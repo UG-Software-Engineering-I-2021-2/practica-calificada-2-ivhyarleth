@@ -2,6 +2,7 @@
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
@@ -172,13 +173,13 @@ public class PrincipalTest {
         Assert.assertEquals(10, studentGradeCalculator.calculateGrades(examsGrades, hasReachedMinimumClasses));
     }
 
-   // @Test
-   // void printTeacherExtraPoint() {
-//        Principal studentGradeCalculator = new Principal(2020);
-//
-//        final List<Pair<Integer, Float>> examsGrades              = List.of(new Pair<>(100, 9.8f));
-//        final boolean                    hasReachedMinimumClasses = true;
-//
-//        Assert.assertEquals(10, studentGradeCalculator.calculateGrades(examsGrades, hasReachedMinimumClasses));
+    @Test
+    public void printTeacherExtraPointTest() {
+        Principal holi = new Principal(2020);
+        List<String> list=new ArrayList<String>();
+        //Adding elements in the List
+        list.add("Josefina");
+        list.add("Edonisio");
+        Assert.assertEquals(holi.printTeacherExtraPoint(), list);
     }
 }

@@ -1,6 +1,9 @@
 import java.util.AbstractMap;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+import java.io.*;
+import java.lang.*;
 
 public class Principal {
 
@@ -101,21 +104,26 @@ public class Principal {
     public static void main(String[] args) {
      System.out.println("Hola");
     }
+
     //Imprimir el nombre de los profesores que est´an de acuerdo con otorgar puntos extras
-    public void printTeacherExtraPoint(){
+    public List<String> printTeacherExtraPoint(){
+        List<String> result = new ArrayList<String>();
         if(teacherWithExtrasPoint()){
             for (Map.Entry<Integer, List<Pair<Teacher, Boolean>>> yearlyTeachers : allYearsTeachers.entrySet()) {
                 List<Pair<Teacher, Boolean>> teachers = yearlyTeachers.getValue();
                 for(Pair<Teacher,Boolean> teacher : teachers){
                     if(teacher.second() == true){
+                        result.add(teacher.first()._Nombre);
                         System.out.println(teacher.first());
                     }
                 }
             }
+            return result;
         }else {
             System.out.println("No hay profesores que otorguen puntos extra");
         }
 
+        return null;
     }
 
 
